@@ -58,4 +58,4 @@ g++ src/main.cpp src/calculator.cpp -Iinclude -std=c++17 -Wall -Wextra -pedantic
 
 ---
 
-Made with ❤️ while learning Modern C++.
+Made with ❤️ while learning Modern C++..
